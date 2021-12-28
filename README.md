@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @RAJIE11
 - 👀 I’m interested in  front end development...
-- 🌱 I’m currently learning front end ...
+- 🌱 I’m currently learning reactjs
 
 <!---
 RAJIE11/RAJIE11 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
