@@ -1,6 +1,5 @@
 # 💫 About Me:
 🔭 I’m Pursuing Final year B.Tech IT at AAMEC<br>🤝 I’m looking for Job as a fresher<br>🌱 I’m currently learning FULL STACK<br><br>
-![image](https://user-images.githubusercontent.com/74948755/233766066-89b4d641-ae06-4151-b342-ccd54d99c0ee.png)
 
 
 ## 🌐 Socials:
