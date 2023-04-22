@@ -2,6 +2,9 @@
 <h1 align="center">Hello<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" height="60px"> I'm Rajie, aspiring full stack developer </h1>  
 
 #  About Me:
+
+<img  src="./thoughtworks-gif_dribbble.gif" height="290px" align="right" />
+
 🚀 I’m Pursuing Final year B.Tech IT at AAMEC  <br>🤝 I’m looking for Job as a fresher  <br>🌱 I’m currently learning FULL STACK<br><br> 
  
 ## 🌐 Socials:
