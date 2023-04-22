@@ -1,10 +1,20 @@
-Hello I'm Rajarajeswari
+                                                              👋 Hello I'm Rajarajeswari
 
 
 
-- 👋 Hi, I’m @RAJIE11
-- 👀 I’m interested in  front end development...
-- 🌱 I’m currently learning reactjs
+
+👨🏻‍💻 About Me:
+
+👨‍💻 I'm a student at anjalai ammal mahalingam engineering college.
+
+🔭 I’m currently working on Something Intresting.
+
+🌱 I’m currently learning FULL Stack
+
+👯 I’m looking for job
+
+
+
 
 <!---
 RAJIE11/RAJIE11 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
