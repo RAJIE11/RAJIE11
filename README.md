@@ -3,7 +3,7 @@
 
 #  About Me:
 
-<img  src="./thoughtworks-gif_dribbble.gif" height="290px" align="right" />
+<img  src="https://github.com/soumyajit4419/soumyajit4419/blob/master/thoughtworks-gif_dribbble.gif?raw=true" height="290px" align="right" />
 
 🚀 I’m Pursuing Final year B.Tech IT at AAMEC  <br>🤝 I’m looking for Job as a fresher  <br>🌱 I’m currently learning FULL STACK<br><br> 
  
