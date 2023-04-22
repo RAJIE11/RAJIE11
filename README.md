@@ -1,4 +1,9 @@
-### <div align="center">I'm Rajie, aspiring web developer 👨‍💻</div>  
+<div align="center">
+<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
+</div>  
+  
+
+### <div align="center">I'm Rishav, a full-time full-stack freelance developer 👨‍💻 working remotely since 2013 🚀</div>  
 
 #  About Me:
 🚀 I’m Pursuing Final year B.Tech IT at AAMEC<br>🤝 I’m looking for Job as a fresher<br>🌱 I’m currently learning FULL STACK<br><br> 
