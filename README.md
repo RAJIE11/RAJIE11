@@ -1,5 +1,5 @@
 
-                                <h2 align="center">Hi 👋! I'M Rajarajeswari...</h2>
+                                                               Hi 👋! I'M Rajarajeswari...
 
 #  About Me:
 🔭 I’m Pursuing Final year B.Tech IT at AAMEC<br>🤝 I’m looking for Job as a fresher<br>🌱 I’m currently learning FULL STACK<br><br> 
