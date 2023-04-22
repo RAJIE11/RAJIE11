@@ -1,5 +1,12 @@
-# 💫 About Me:
+#  About Me:
 🔭 I’m Pursuing Final year B.Tech IT at AAMEC<br>🤝 I’m looking for Job as a fresher<br>🌱 I’m currently learning FULL STACK<br><br> 
+
+###
+
+<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+
+###
+
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/rajarajeswari-j-44368b213) 
@@ -21,3 +28,9 @@
 [![](https://visitcount.itsvg.in/api?id=RAJIE11&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+
+<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
+
+
+
