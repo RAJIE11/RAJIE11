@@ -3,7 +3,7 @@
 ### <div align="center">I'm Rajie, aspiring full stack developer 👨‍💻 </div>  
 
 #  About Me:
-🚀 I’m Pursuing Final year B.Tech IT at AAMEC<br>🤝 I’m looking for Job as a fresher<br>🌱 I’m currently learning FULL STACK<br><br> 
+🚀 I’m Pursuing Final year B.Tech IT at AAMEC  <br>🤝 I’m looking for Job as a fresher  <br>🌱 I’m currently learning FULL STACK<br><br> 
  
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/rajarajeswari-j-44368b213) 
