@@ -5,7 +5,13 @@
 
 <img  src="https://github.com/soumyajit4419/soumyajit4419/blob/master/thoughtworks-gif_dribbble.gif?raw=true" height="290px" align="right" />
 
-🚀 I’m Pursuing Final year B.Tech IT at AAMEC  <br>🤝 I’m looking for Job as a fresher  <br>🌱 I’m currently learning FULL STACK<br><br> 
+ - 🚀 I’m Pursuing Final year B.Tech IT  
+
+ - studying in AAMEC 
+ 
+ - 🤝 looking for Job as a fresher  
+ 
+ - 🌱 I’m currently learning 'FULL STACK'
  
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/rajarajeswari-j-44368b213) 
