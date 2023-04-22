@@ -1,8 +1,7 @@
-
-                                                               Hi 👋! I'M Rajarajeswari...
+### <div align="center">I'm Rajie, aspiring web developer 👨‍💻</div>  
 
 #  About Me:
-🔭 I’m Pursuing Final year B.Tech IT at AAMEC<br>🤝 I’m looking for Job as a fresher<br>🌱 I’m currently learning FULL STACK<br><br> 
+🚀 I’m Pursuing Final year B.Tech IT at AAMEC<br>🤝 I’m looking for Job as a fresher<br>🌱 I’m currently learning FULL STACK<br><br> 
 
 <img align="right" height="150" src="https://github.com/soumyajit4419/soumyajit4419/blob/master/thoughtworks-gif_dribbble.gif?raw=true"  />
 
