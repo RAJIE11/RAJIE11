@@ -5,8 +5,8 @@
 
 <img  src="https://github.com/soumyajit4419/soumyajit4419/blob/master/thoughtworks-gif_dribbble.gif?raw=true" height="200px" align="right" />
 
- - 🚀 My portfolio ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rajarajeswari-j11/) 
+ - 🚀 My portfolio 
+[![PORTFOLIO](https://rajieportfolio.netlify.app/) 
 
  - 💻 Graduated in AAMEC
  
