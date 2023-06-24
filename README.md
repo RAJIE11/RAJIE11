@@ -5,8 +5,7 @@
 
 <img  src="https://github.com/soumyajit4419/soumyajit4419/blob/master/thoughtworks-gif_dribbble.gif?raw=true" height="200px" align="right" />
 
- - 🚀 My portfolio 
-[![PORTFOLIO](https://rajieportfolio.netlify.app/) 
+ - 🚀 My portfolio [PORTFOLIO](https://rajieportfolio.netlify.app/) 
 
  - 💻 Graduated in AAMEC
  
