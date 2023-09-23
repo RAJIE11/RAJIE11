@@ -35,3 +35,5 @@
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=RAJIE11&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
+
+<a href="https://www.freepik.com/free-vector/cute-girl-working-laptop-with-coffee-cup-illustration_11645838.htm#query=girl%20with%20laptop&position=13&from_view=search&track=ais">Image by catalyststuff</a> on Freepik
