@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rajie11&label=Profile%20views&color=0e75b6&style=flat" alt="rajie11" /> </p>
 
-<img  src= "https://www.freepik.com/free-vector/cute-girl-working-laptop-with-coffee-cup-illustration_11645838.htm#query=girl%20with%20laptop&position=13&from_view=search&track=ais" height="290px" align="right" />
+<img  src= "https://i.imgflip.com/65efzo.gif" align="right" />
 
 - 🌱 I’m currently learning **Full stack Development**
 
@@ -28,7 +28,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rajie11&show_icons=true&locale=en" alt="rajie11" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rajie11&" alt="rajie11" /></p>
-"https://i.imgflip.com/65efzo.gif"
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
