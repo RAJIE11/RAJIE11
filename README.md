@@ -3,6 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rajie11&label=Profile%20views&color=0e75b6&style=flat" alt="rajie11" /> </p>
 
+<img  src="./thoughtworks-gif_dribbble.gif" height="290px" align="right" />
+
+
 - 🌱 I’m currently learning **Full stack Development**
 
 - 👨‍💻 All of my projects are available at [https://rajieportfolio.netlify.app/](https://rajieportfolio.netlify.app/)
